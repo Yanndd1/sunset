@@ -27,3 +27,5 @@ Thumbs.db
 *.pem
 .idea/
 .vscode/
+# Claude Code workspace artefacts
+/.claude
